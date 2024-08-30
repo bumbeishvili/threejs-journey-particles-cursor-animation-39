@@ -73,7 +73,7 @@ renderer.setPixelRatio(sizes.pixelRatio)
 /*
 * Images
 */
-const pictureTexture = textureLoader.load('/picture-1.png');
+const pictureTexture = textureLoader.load('/picture-5.png');
 
 
 
